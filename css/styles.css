@@ -15,7 +15,7 @@ body{
 .main{
     border: 0.5px solid #1e2229;
     padding:.5% 1%;
-    background-image: linear-gradient(to top left,  #030303,#1B2430 );    
+    background-image: linear-gradient(to bottom right,  #030303,#1B2430 );    
     box-shadow: 0 12px 25px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 25%;
 }
